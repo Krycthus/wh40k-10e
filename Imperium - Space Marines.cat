@@ -1026,7 +1026,7 @@
         </profile>
       </profiles>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="80"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="70"/>
       </costs>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="af45-98a8-8453-539" includeChildSelections="true" includeChildForces="true"/>
@@ -2160,10 +2160,10 @@ this unit, add 1 to any armour saving throw made against that attack.</character
         <categoryLink targetId="bc4b-906d-3e8b-fc45" id="951c-e131-d920-299e" primary="false" name="Heavy Intercessor Squad"/>
       </categoryLinks>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="100"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="95"/>
       </costs>
       <modifiers>
-        <modifier type="set" value="200" field="51b2-306e-1021-d207">
+        <modifier type="set" value="190" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="7324-e591-939b-b675" childId="a762-13b8-c395-6d30" shared="true" id="5fc9-3f06-98f9-94b5" includeChildSelections="true"/>
           </conditions>
@@ -3811,7 +3811,7 @@ Strategic Reserves.</characteristic>
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Vanguard Veteran Squad with Jump Packs" hidden="false" id="9e9c-bf4d-2d40-be82">
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="105"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="110"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="cf47-a0d7-7207-29dc" id="82d2-1671-c882-68a7" primary="true" name="Infantry"/>
@@ -3843,7 +3843,7 @@ Strategic Reserves.</characteristic>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="1440-b1db-a707-84e2"/>
       </constraints>
       <modifiers>
-        <modifier type="set" value="210" field="51b2-306e-1021-d207">
+        <modifier type="set" value="220" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="9e9c-bf4d-2d40-be82" childId="8a7f-b578-d274-9769" shared="true" id="c465-ba04-3a7-cc0a"/>
           </conditions>
@@ -4496,7 +4496,7 @@ Strategic Reserves.</characteristic>
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Reiver Squad" hidden="false" id="a7ae-e495-683b-7c90">
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="85"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="75"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="cf47-a0d7-7207-29dc" id="6c1e-630-6fac-f27e" primary="true" name="Infantry"/>
@@ -4716,7 +4716,7 @@ bearer can be moved during that move</characteristic>
         </selectionEntry>
       </selectionEntries>
       <modifiers>
-        <modifier type="set" value="170" field="51b2-306e-1021-d207">
+        <modifier type="set" value="150" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="a7ae-e495-683b-7c90" childId="5a24-53a0-4b59-b3ef" shared="true" id="cb80-e47c-cc3-7976"/>
           </conditions>
@@ -4889,7 +4889,7 @@ by 1.</characteristic>
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Terminator Assault Squad" hidden="false" id="ae9a-10e3-8091-20">
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="185"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="180"/>
       </costs>
       <profiles>
         <profile name="Terminator Assault Squad" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="6fd7-3791-b5ec-a941">
@@ -5019,7 +5019,7 @@ by 1.</characteristic>
         </selectionEntryGroup>
       </selectionEntryGroups>
       <modifiers>
-        <modifier type="set" value="370" field="51b2-306e-1021-d207">
+        <modifier type="set" value="360" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="ae9a-10e3-8091-20" childId="f0a0-fda7-8b75-5ec1" shared="true" id="94ce-62b2-5a-8904"/>
           </conditions>
@@ -5075,7 +5075,7 @@ by 1.</characteristic>
         </profile>
       </profiles>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="175"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="170"/>
       </costs>
       <selectionEntryGroups>
         <selectionEntryGroup name="Terminators" hidden="false" id="7f44-894b-1c97-a2dc" defaultSelectionEntryId="2-e9c0-140-a1ef">
@@ -5247,7 +5247,7 @@ by 1.</characteristic>
         </selectionEntryGroup>
       </selectionEntryGroups>
       <modifiers>
-        <modifier type="set" value="350" field="51b2-306e-1021-d207">
+        <modifier type="set" value="340" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="4808-a80b-309a-7933" childId="7f44-894b-1c97-a2dc" shared="true" id="20bd-62ed-123-c8f9" includeChildSelections="true"/>
           </conditions>
@@ -6848,7 +6848,7 @@ by 1.</characteristic>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="9432-b063-a3f3-2dc9"/>
       </constraints>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="140"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="130"/>
       </costs>
       <profiles>
         <profile name="Ballistus Dreadnought" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="96f7-307-efa6-dd1a">
@@ -7692,7 +7692,7 @@ by 1.</characteristic>
         <categoryLink targetId="6e7-40c-58d9-e402" id="50d5-37dd-3666-666b" primary="false" name="Faction: Adeptus Astartes"/>
       </categoryLinks>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="70"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="60"/>
       </costs>
       <profiles>
         <profile name="Invader ATV" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="9db4-ab00-11a5-2f71">
@@ -8530,7 +8530,7 @@ by 1.</characteristic>
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Suppressor Squad" hidden="false" id="97f6-b1f8-c72d-e826">
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="85"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="75"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="cf47-a0d7-7207-29dc" id="2bc0-b1ec-adc2-5680" primary="true" name="Infantry"/>
@@ -9678,7 +9678,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Eradicator Squad" hidden="false" id="c570-c6ba-c9dc-5a44">
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="95"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="100"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="cf47-a0d7-7207-29dc" id="95b1-be35-d597-e9ad" primary="true" name="Infantry"/>
@@ -9795,7 +9795,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         </selectionEntryGroup>
       </selectionEntryGroups>
       <modifiers>
-        <modifier type="set" value="190" field="51b2-306e-1021-d207">
+        <modifier type="set" value="200" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="4" field="selections" scope="c570-c6ba-c9dc-5a44" childId="f59c-c864-bd59-1759" shared="true" id="50cb-11a-d6a5-47d1" includeChildSelections="true"/>
           </conditions>
@@ -15075,7 +15075,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Apothecary Biologis" hidden="false" id="c6e9-c0c8-5f13-5771">
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="55"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="70"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="9cfd-1c32-585f-7d5c" id="1d2f-f664-b40e-69c8" primary="true" name="Character"/>
@@ -20745,7 +20745,7 @@ to the Wound roll.’</characteristic>
                 </profile>
               </profiles>
               <costs>
-                <cost name="pts" typeId="51b2-306e-1021-d207" value="30"/>
+                <cost name="pts" typeId="51b2-306e-1021-d207" value="40"/>
               </costs>
             </selectionEntry>
           </selectionEntries>
@@ -21320,7 +21320,7 @@ is Battle-shocked, models in that unit have the Feel No Pain 4+ ability instead.
                 </profile>
               </profiles>
               <costs>
-                <cost name="pts" typeId="51b2-306e-1021-d207" value="20"/>
+                <cost name="pts" typeId="51b2-306e-1021-d207" value="10"/>
               </costs>
             </selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Fury of the Storm" hidden="false" id="7491-28d9-80bd-9c26">
@@ -21372,7 +21372,7 @@ is Battle-shocked, models in that unit have the Feel No Pain 4+ ability instead.
                 <constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d526-e91c-55fc-5bd2" includeChildSelections="true"/>
               </constraints>
               <costs>
-                <cost name="pts" typeId="51b2-306e-1021-d207" value="10"/>
+                <cost name="pts" typeId="51b2-306e-1021-d207" value="25"/>
               </costs>
               <modifiers>
                 <modifier type="set" value="true" field="hidden">
